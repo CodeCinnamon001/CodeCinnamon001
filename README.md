@@ -20,7 +20,7 @@
 
 ###
 
-<h5 align="left">I'm Null != 0 from India<br><br>- 📚 I'm currently learning frontend development</h5>
+<h5 align="center">I'm Null != 0 from India<br><br>- 📚 I'm currently learning frontend development</h5>
 
 ###
 
