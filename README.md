@@ -15,10 +15,10 @@
 <h1 align="center">hey there 👋</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codecinnamon001&label=Profile%20views&color=00ffff&style=flat" alt="codecinnamon001" /> </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=codecinnamon001&label=Profile%20views&color=00ffff&style=flat" alt="codecinnamon001" /> </p>
+<div align="center">
 <img src="https://discord-readme-badge.vercel.app/api?id=758698747751825450" alt="Discord"/>
-
+</div>
 ###
 
 <h3 align="center">👩‍💻  About Me</h3>
