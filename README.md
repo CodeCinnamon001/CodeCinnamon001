@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="center">I'm Null == 0 from India<br><br>- 📚 I'm currently learning frontend development</h3>
+<h3 align="center">I'm Null == 0 from India<br><br>- 📚 I'm currently learning C++ </h3>
 
 ### 
 
